@@ -1,5 +1,5 @@
 # app-ads.txt for nimbleblade.games
-# Generated 2026-10-20 17:03 UTC from: _old.txt, admob.txt, pangle.txt, unity.txt
+# Generated 2026-11-16 13:20 UTC from: _old.txt, admob.txt, meta.txt, pangle.txt, unity.txt
 
 OWNERDOMAIN=nimbleblade.games
 
@@ -165,6 +165,9 @@ xandr.com, 15840, RESELLER
 xandr.com, 17779, RESELLER
 zetaglobal.net, 630, RESELLER
 zmaticoo.com, 5135195, RESELLER
+
+# meta.txt
+facebook.com, 1279738503445679, DIRECT, c3e20eee3f780d68
 
 # pangle.txt
 pangleglobal.com, 5040298, DIRECT
